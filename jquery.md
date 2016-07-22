@@ -20,7 +20,7 @@
 * [11 Free jQuery Rating Plugins](http://www.learningjquery.com/2015/05/11-free-jquery-rating-plugins)
 * [7 Awesome JavaScript Libraries for Drawing](http://www.learningjquery.com/2015/05/7-awesome-javascript-libraries-for-drawing)
 * [14 Useful jQuery Plugins for Creating Sticky Elements](http://www.learningjquery.com/2015/05/14-useful-jquery-plugins-for-creating-sticky-elements)
-* [Using jQuery’s Data APIs](http://www.learningjquery.com/2011/09/using-jquerys-data-apis
+* [Using jQuery’s Data APIs](http://www.learningjquery.com/2011/09/using-jquerys-data-apis)
 * [Introducing jQuery API Search](http://www.learningjquery.com/2010/09/introducing-jquery-api-search)
 * [Latest Free jQuery Plugins](http://www.learningjquery.com/2015/05/latest-free-jquery-plugins)
 * [8 Useful JavaScript Libraries to Build Interactive Charts](http://www.learningjquery.com/2015/04/8-useful-javascript-libraries-to-build-interactive-charts)
