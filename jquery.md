@@ -1,5 +1,6 @@
 
 ## Learn
+* [Learn JQuery](https://frontendmasters.com/learningjquery//femasters/)
 * [Great Ways to Learn jQuery](http://www.learningjquery.com/2010/07/great-ways-to-learn-jquery)
 * [Setting up Visual Studio Intellisense for jQuery](http://www.learningjquery.com/2009/07/setting-up-visual-studio-intellisense-for-jquery)
 
